@@ -1,0 +1,1733 @@
+@media (max-width: 1350px){
+	header{	
+	height: 750px;
+}
+	nav{
+	width: 75%;
+	grid-column-gap: 10px;
+}
+	.imgNav{
+	height: 70px;
+	width: 120px;
+}
+.nav>li{
+	padding-left: 20px;
+}
+.nav>li:nth-child(4){
+	padding-right: 20px;
+}
+#LogIn, #CreateNav{ 
+	height: 35px;
+	justify-self: center;
+}
+#CreateNav{
+	width: 150px;
+}
+#LogIn{
+	width: 80px;
+}
+.headerMain{
+	width: 75%;
+}
+.stroke1{
+	width: 75%;
+}
+
+.section2{
+	width: 75%;
+}
+
+.article1{
+	width: 75%;
+}
+.article2{
+	width: 75%;
+}
+.ImgArt2{
+	width: 440px;
+	height: 400px;
+}
+.article3{
+	width: 75%;
+}
+.ImgArt3{
+	width: 500px;
+	height: 450px;
+}
+.article4{
+	width: 75%;
+}
+.ImgArt4{
+	width: 440px;
+	height: 400px;
+}
+
+
+.section4{
+	width: 75%;
+	grid-column-gap: 30px;
+}
+.S2I1{
+	width: 450px;
+	height: 140px;
+}
+.S2I1>img{
+	width: 90%;
+	height: 90%;
+}
+
+
+.S5container{
+	width: 75%;
+}
+.section6{
+	width: 75%;
+}
+.section7>div{
+	width: 75%;
+}
+.footerSection1{
+	width: 75%;
+}
+.footerSection2>div{
+	width: 75%;
+}
+
+
+
+}
+
+
+
+
+@media (max-width: 1200px){
+	header{	
+	height: 700px;
+}
+	nav{
+	width: 80%;
+	grid-column-gap: 5px;
+}
+.nav>li{
+	padding-left: 15px;
+}
+.nav>li:nth-child(4){
+	padding-right: 15px;
+}
+#CreateNav{
+	width: 140px;
+	font-size: 12px;
+}
+#LogIn{
+	width: 70px;
+	font-size: 12px;
+}
+.headerMain{
+	width: 80%;
+}
+.stroke1{
+	width: 80%;
+}
+
+.section2{
+	width: 80%;
+}
+
+.article1{
+	width: 80%;
+}
+.article2{
+	width: 80%;
+}
+.article3{
+	width: 80%;
+}
+.article4{
+	width: 80%;
+}
+
+
+.section4{
+	width: 80%;
+	grid-column-gap: 20px;
+}
+
+.S5container{
+	width: 80%;
+}
+.section6{
+	width: 80%;
+}
+.section7>div{
+	width: 80%;
+}
+.footerSection1{
+	width: 80%;
+}
+.footerSection2>div{
+	width: 80%;
+}
+
+}
+
+
+
+@media (max-width: 1100px){
+	header{	
+	height: 710px;
+}
+	.nameHead{
+	font-size: 60px;
+}
+	.textHead{
+	font-family: 'Montserrat', sans-serif;
+	margin: 0;
+	font-size: 30px;
+}
+	.aboutHead{
+	font-size: 20px;
+}
+	.pointer{
+	grid-column: 1/2;
+	justify-self: end;
+}
+	.IphoneHead{	
+	grid-column: 2/4;
+}
+	.IphoneHead>img{
+	height: 90%;
+	width: 90%;
+}
+
+
+.vidjet1, .vidjet2, .vidjet3{
+	width: 350px;
+	height: 220px;
+	padding: 20px 5px;
+}
+.v1T2, .v2T2, .v3T2{
+	margin: 0;
+	margin-top: 8px;
+	font-size: 16px;
+}
+.v1T3, .v2T3, .v3T3{
+	font-size: 13px;
+	margin: 10px 0;
+}
+.ImgArt2{
+	width: 400px;
+	height: 360px;
+}
+.ImgArt3{
+	width: 460px;
+	height: 390px;
+}
+.ImgArt4{
+	width: 400px;
+	height: 360px;
+}
+.S2I1{
+	width: 430px;
+	height: 120px;
+}
+.S2I1>img{
+	width: 90%;
+	height: 90%;
+}
+
+}
+
+
+
+@media (max-width: 940px){
+	header{	
+	height: 700px;
+}
+	nav{
+	width: 85%;
+	grid-column-gap: 5px;
+	padding-bottom: 20px;
+}
+.nav>li{
+	padding-left: 10px;
+}
+.nav>li:nth-child(4){
+	padding-right: 10px;
+}
+#CreateNav{
+	width: 120px;
+	font-size: 11px;
+}
+#LogIn{
+	width: 60px;
+	font-size: 11px;
+}
+.headerMain{
+	width: 85%;
+	padding-bottom: 20px;
+}
+.nameHead{
+	font-size: 55px;
+}
+.textHead{
+	font-size: 30px;
+}
+.aboutHead{
+	font-size: 20px;
+}
+
+
+
+.stroke1{
+	width: 85%;
+}
+
+.section2{
+	width: 85%;
+}
+
+
+.S2ImgButton{	
+	width: 450px;
+	height: 400px;
+}
+#ConsultationS2{
+	height: 50px;
+	width: 270px;
+}
+.HelpS2{
+	margin-top: 0;
+ 	font-size: 30px;
+ 	padding-bottom: 10px;
+}
+.S2TextBlock>ul>li{
+	margin-top: 20px; 
+	font-size: 18px;
+}
+
+.article1>p{
+	font-size: 30px; 
+}
+.ImgArt3{
+	width: 400px;
+	height: 320px;
+}
+.ImgArt2{
+	width: 360px;
+	height: 320px;
+}
+.ImgArt4{
+	width: 360px;
+	height: 320px;
+}
+.article1{
+	width: 85%;
+}
+.article2{
+	width: 85%;
+}
+.article3{
+	width: 85%;
+}
+.article4{
+	width: 85%;
+}
+
+
+.section4{
+	width: 85%;
+	grid-column-gap: 15px;
+}
+.S4Name1>p{
+	font-size: 21px;
+}
+.S4T1>p{
+	font-size: 14px;
+	line-height: 22px;
+}
+.S2I1{
+	width: 400px;
+	height: 120px;
+}
+.S4Name2>p{
+	padding-top: 18px;
+}
+.S4T2>p{
+	font-size: 14px;
+	line-height: 22px;
+}
+.S5container{
+	width: 85%;
+}
+.section6{
+	width: 85%;
+}
+
+
+.S6Art1Name>p{
+	font-size: 30px;
+}
+.nameReview1, .nameReview2, .nameReview3{
+	grid-row-gap: 5px;
+	grid-column-gap: 10px;
+}
+.photo1, .photo2, .photo3{
+	width: 50px;
+	height: 50px;
+}
+.NAME{
+	font-size: 18px;
+}
+.position{
+	font-size: 14px;
+}
+.TextReview1>p, .TextReview2>p, .TextReview3>p{
+	font-size: 14px;
+}
+.wreath1>img, .wreath2>img{
+	height: 85%;
+	width: 85%;
+}
+.wreath3>img, .wreath4>img{
+	height: 85%;
+	width: 85%;
+}
+.wreath5>img, .wreath6>img{
+	height: 85%;
+	width: 85%;
+}
+.S6Art2Name>p{
+	font-size: 28px;
+}
+.S6Art2Name>a{
+	font-size: 14px;
+}
+.Price{
+	grid-column-gap: 20px;
+}
+.Start, .Pro, .ProPlus{
+	grid-row-gap: 20px;
+}
+.Start>p, .Pro>p, .ProPlus>p{
+	font-size: 25px;
+	padding: 15px 0;	
+}
+.Start>div, .Pro>div, .ProPlus>div{
+	height: 200px;
+}
+.Start>div>p, .Pro>div>p, .ProPlus>div>p{
+	font-size: 16px;
+	padding: 5px 15px;
+}
+.S6Art2Buttons>a{
+	font-size: 18px; 
+	height: 50px; 
+	width: 200px;
+}
+
+.section7>div{
+	width: 85%;
+}
+.S7T1>p:nth-child(1){
+	font-size: 30px;
+	padding: 25px 0; 
+}
+.S7T1>p:nth-child(1)>span{
+	font-size: 30px; 
+}
+.S7T1>p:nth-child(2){
+	font-size: 14px;
+	padding-bottom: 15px;
+}
+.section7>div>a{
+	font-size: 14px;
+	height: 50px;
+	width: 250px;
+}
+
+
+.footerSection1{
+	width: 85%;
+}
+.footerSection1{
+	grid-column-gap: 20px;
+	padding-bottom: 20px;
+}
+.footerSection1>div>p{
+	font-size: 16px;
+}
+.footerSection1>div>ul>li{
+	padding-bottom: 10px;
+}
+.footerSection1>div>ul>li>a{
+	font-size: 14px;
+}
+
+.footerSection2>div{
+	width: 85%;
+}
+
+}
+
+
+
+
+@media (max-width: 940px){
+	nav{
+	display: grid;
+	grid-template-columns: repeat(2, auto);
+	grid-template-rows: repeat(2, auto);
+	grid-row-gap: 10px;
+	padding: 10px 0;
+}
+	.imgNav{
+	grid-row-start: 1;
+	grid-row-end: 2;
+	grid-column: 1/2;
+	height: 65px;
+	width: 115px;
+}
+	.nav{
+	grid-row-start: 2;
+	grid-row-end: 3;
+	grid-column: 1/3;
+}
+.nav>li{
+	text-align: center;
+}
+#LogIn, #CreateNav{
+	grid-row-start: 1;
+	grid-row-end: 2;
+	grid-column: 2/3;
+}
+#LogIn{
+	 
+}
+#CreateNav{
+	justify-self: end;
+}
+.nameHead{
+	font-size: 53px;
+}
+.textHead{
+	font-size: 25px;
+}
+.aboutHead{
+	font-size: 18px;
+}
+
+.s1I1, .s1I2, .s1I3, .s1I4{
+	height: 60px;
+	width: 60px;
+}
+.s1T1>p, .s1T2>p, .s1T3>p, .s1T4>p{
+	font-size: 14px;
+}
+.S2ImgButton{	
+	width: 370px;
+	height: 400px;
+}
+.HelpS2{
+ 	font-size: 26px;
+}
+.ConsS2{
+	font-size: 24px;
+}
+.S2TextBlock>ul>li{
+	margin-top: 10px; 
+	font-size: 16px;
+}
+.section3{ 
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+.article1{
+	padding-bottom: 70px;
+}
+.ImgArt2{
+	width: 310px;
+	height: 270px;
+}
+.ImgArt3{
+	width: 330px;
+	height: 260px;
+}
+.ImgArt4{
+	width: 310px;
+	height: 270px;
+}
+.vidjet1, .vidjet2, .vidjet3{
+	width: 260px;
+	height: 190px;
+	padding: 10px 5px;
+}
+.v1T1, .v2T1, .v3T1{
+	font-size: 8px;
+}
+.v1T2, .v2T2, .v3T2{
+	font-size: 12px;;
+}
+.v1T3, .v2T3, .v3T3{
+	font-size: 10px;
+}
+.vidjet2>a{
+	font-size: 11px;
+}
+.vidjet1>a{
+	font-size: 11px;
+}
+.vidjet3>a{
+	font-size: 11px;
+}
+
+
+
+
+.section4{
+	display: grid;
+	grid-template-columns: repeat(1, 1fr);
+	grid-template-rows: repeat(2, auto);
+	padding: 100px 0;
+}
+.S4About1>p{
+	font-size: 12px;
+	text-align: center;
+}
+.S4Name1>p{
+	font-size: 24px;
+	text-align: center;
+}
+.S4T1>p{
+	font-size: 14px;
+	text-align: justify;	
+	margin-bottom: 15px;
+}
+.S2I1>img{
+	width: 100%;
+	height: 100%;
+}
+.S4Name2>p{
+	padding-bottom: 10px;
+	margin: 0;
+	text-align: center;
+}
+.S4T2>p{
+	text-align: justify;
+	margin: 0;
+}
+.S4Row1>p:nth-child(1){
+	font-size: 30px;
+}
+.S4Row1>p:nth-child(2){
+	font-size: 16px;
+}
+.S4Row2Col1>p:nth-child(2), 
+.S4Row2Col2>p:nth-child(2), 
+.S4Row2Col3>p:nth-child(2){
+	font-size: 16px;
+}
+.S4Row2Col1>p:nth-child(1), 
+.S4Row2Col2>p:nth-child(1), 
+.S4Row2Col3>p:nth-child(1){
+	font-size: 15px;
+}
+.S4Row2Col1>p:nth-child(1)>span, 
+.S4Row2Col2>p:nth-child(1)>span, 
+.S4Row2Col3>p:nth-child(1)>span{
+	font-size: 28px;
+}
+.S4Row3>p:nth-child(1){
+	font-size: 22px;
+
+}
+.S4Row3>p:nth-child(2){
+	font-size: 14px;
+}
+.S4Row3{
+	padding-bottom: 25px;
+}
+.section5{
+	padding: 70px 0 70px 0;
+}
+
+
+.S6Art1Name>p{
+	font-size: 28px;
+}
+.nameReview1, .nameReview2, .nameReview3{
+	grid-column-gap: 5px;
+}
+.photo1, .photo2, .photo3{
+	width: 40px;
+	height: 40px;
+}
+.NAME{
+	font-size: 16px;
+}
+.position{
+	font-size: 12px;
+}
+.TextReview1>p, .TextReview2>p, .TextReview3>p{
+	font-size: 12px;
+}
+.wreath1>img, .wreath2>img{
+	height: 80%;
+	width: 80%;
+}
+.wreath3>img, .wreath4>img{
+	height: 75%;
+	width: 75%;
+}
+.wreath5>img, .wreath6>img{
+	height: 75%;
+	width: 75%;
+}
+
+.S6Art2Name{
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+}
+.S6Art2Name>p{
+	grid-column: 2/4;
+	font-size: 30px;
+}
+.S6Art2Name>a{
+	font-family: 'Montserrat', sans-serif;
+	grid-column: 4/5;
+	font-size: 13px;
+}
+.Price{
+	grid-column-gap: 20px;
+}
+.Start, .Pro, .ProPlus{
+	grid-row-gap: 20px;
+}
+.Start>p, .Pro>p, .ProPlus>p{
+	font-size: 20px;
+	padding: 10px 0;
+	
+}
+.Start>div, .Pro>div, .ProPlus>div{
+	height: 150px;
+}
+.Start>div>p, .Pro>div>p, .ProPlus>div>p{
+	font-size: 14px;
+	padding: 5px 10px;
+}
+
+.S6Art2Buttons>a{
+	font-size: 14px;
+	height: 30px;
+	width: 150px;
+}
+
+
+.S7T1>p:nth-child(1){
+	font-size: 26px;
+}
+.S7T1>p:nth-child(1)>span{
+	font-size: 26px;
+}
+.S7T1>p:nth-child(2){
+	font-size: 12px;
+}
+.section7>div>a{
+	font-size: 12px; 
+	height: 60px;
+	width: 300px;
+}
+
+.footerSection1>div>ul>li>a{
+	font-size: 12px;
+}
+.footerSection1>div>ul>li{
+	font-size: 12px;
+}
+.footerSection2>div>div>p{
+	font-size: 12px;
+}
+.payCards>a>img{
+	width: 50px;
+	height: 28px;
+}
+}
+
+
+@media (max-width: 750px){
+	#LogIn{
+		margin-right: 30px;
+}
+	header{	
+	height: 600px;
+}
+nav{
+	width: 90%;
+}
+.headerMain{
+	width: 90%;
+}
+.S2TextBlock>ul>li{
+	padding: 5px 0 5px 40px;
+	margin-top: 5px; 
+	font-size: 14px;
+}
+.S2ImgButton{	
+	width: 300px;
+	height: 330px;
+}
+#ConsultationS2{
+	font-size: 14px;
+	height: 45px; 
+	width: 220px;
+}
+.stroke1{
+	width: 90%;
+}
+.section2{
+	width: 90%;
+}
+.section3{ 
+	padding-top: 50px;
+}
+.article1{
+	padding-bottom: 50px;
+	width: 90%;
+}
+.article1>p{
+	font-size: 26px; 
+}
+.article2{
+	width: 90%;
+}
+.article3{
+	width: 90%;
+}
+.article4{
+	width: 90%;
+}
+.ImgArt2{
+	width: 280px;
+	height: 250px;
+	justify-self: center; 
+}
+.ImgArt3{
+	width: 330px;
+	height: 260px;
+}
+.ImgArt4{
+	width: 280px;
+	height: 250px;
+	justify-self: center;
+}
+.vidjet1, .vidjet2, .vidjet3{
+	width: 210px;
+	height: 190px;
+	padding: 8px 5px;
+	justify-self: center;
+}
+.v1T1, .v2T1, .v3T1{
+	font-size: 7px;
+}
+.v1T2, .v2T2, .v3T2{
+	font-size: 11px;;
+}
+.v1T3, .v2T3, .v3T3{
+	font-size: 9px;
+}
+.vidjet1>a{
+	font-size: 10px;
+}
+.vidjet2>a{
+	font-size: 10px;
+}
+.vidjet3>a{
+	font-size: 10px;
+}
+
+.section4{
+	width: 90%;
+}
+.S5container{
+	width: 90%;
+}
+.S4Row1>p:nth-child(1){
+	font-size: 28px;
+}
+.S4Row1>p:nth-child(2){
+	font-size: 14px;
+}
+.S4Row2Col1>p:nth-child(2), 
+.S4Row2Col2>p:nth-child(2), 
+.S4Row2Col3>p:nth-child(2){
+	font-size: 14px;
+}
+.S4Row2Col1>p:nth-child(1), 
+.S4Row2Col2>p:nth-child(1), 
+.S4Row2Col3>p:nth-child(1){
+	font-size: 13px;
+}
+.S4Row2Col1>p:nth-child(1)>span, 
+.S4Row2Col2>p:nth-child(1)>span, 
+.S4Row2Col3>p:nth-child(1)>span{
+	font-size: 20px;
+}
+.S4Row3>p:nth-child(1){
+	font-size: 20px;
+
+}
+.S4Row3>p:nth-child(2){
+	font-size: 12px;
+}
+.S4Row3{
+	padding-bottom: 25px;
+}
+.S4Row4>a{
+	font-size: 18px; 
+	height: 40px;
+	width: 230px;
+}
+
+.section6{
+	width: 90%;
+}
+.S6Art1Name>p{
+	font-size: 24px;
+}
+.NAME{
+	font-size: 14px; 
+}
+
+.position{
+	font-size: 10px;
+}
+.TextReview1>p, .TextReview2>p, .TextReview3>p{
+	font-size: 11px;
+}
+.S6Art2Name>p{
+	font-size: 26px;
+}
+.Start>p, .Pro>p, .ProPlus>p{
+	font-size: 16px;
+	padding: 15px 0;	
+}
+.Start>div, .Pro>div, .ProPlus>div{
+	height: 150px;
+}
+.Start>div>p, .Pro>div>p, .ProPlus>div>p{
+	font-size: 12px;
+	padding: 5px 8px;
+}
+
+.section7>div{
+	width: 90%;
+}
+.section7>div>a{
+	font-size: 11px; 
+	height: 30px; 
+	width: 210px;
+}
+.S7Img>img{
+	width: 100%;
+	height: 90%;
+}
+
+.footerSection1{
+	width: 90%;
+}
+.footerSection1>div>p{
+	font-size: 14px;
+}
+.footerSection1>div>ul>li>a{
+	font-size: 10px;
+}
+.footerSection1>div>ul>li{
+	font-size: 10px;
+}
+.contacts>div>a>img{
+	width: 30px;
+	height: 30px;
+}
+.footerSection2{
+	height: 50px;
+}
+.footerSection2>div{
+	width: 90%;
+}
+.footerSection2>div>div>p{
+	font-size: 10px;
+}
+.payCards>a>img{
+	width: 46px;
+	height: 26px;
+}
+}
+
+
+
+@media (max-width: 650px){
+	#LogIn{
+		margin-right: 60px;
+}
+	header{	
+	height: 550px;
+}
+.nameHead{
+	font-size: 48px;
+}
+.textHead{
+	font-size: 22px;
+}
+.aboutHead{
+	font-size: 15px;
+}
+.pointer{
+	height: 70px;
+	width: 65px;
+}
+.IphoneHead>img{
+	height: 90%;
+	width: 90%;
+}
+
+.s1I1, .s1I2, .s1I3, .s1I4{
+	height: 50px;
+	width: 50px;
+}
+.s1T1>p, .s1T2>p, .s1T3>p, .s1T4>p{
+	font-size: 12px;
+}
+.S2ImgButton{	
+	width: 260px;
+	height: 290px;
+}
+#ConsultationS2{
+	font-size: 12px;
+	height: 40px;
+	width: 210px;
+}
+.HelpS2{
+ 	font-size: 24px;
+ 	padding-bottom: 5px;
+}
+.ConsS2{
+	font-size: 22px; 
+}
+.S2TextBlock>ul>li{
+	margin-top: 0; 
+	font-size: 12px;
+
+}
+
+.S4Row1>p:nth-child(1){
+	font-size: 24px;
+}
+.S4Row2{
+	grid-column-gap: 3vw;
+}
+.S4Row2Col1>p:nth-child(2), 
+.S4Row2Col2>p:nth-child(2), 
+.S4Row2Col3>p:nth-child(2){
+	font-size: 12px;
+}
+.S4Row2Col1>p:nth-child(1), 
+.S4Row2Col2>p:nth-child(1), 
+.S4Row2Col3>p:nth-child(1){
+	font-size: 12px;
+}
+.S4Row2Col1>p:nth-child(1)>span, 
+.S4Row2Col2>p:nth-child(1)>span, 
+.S4Row2Col3>p:nth-child(1)>span{
+	font-size: 18px;
+}
+.S4Row3{
+	padding-bottom: 20px;
+}
+
+.S4Row3>p:nth-child(1){
+	font-size: 18px;
+
+}
+.S4Row4>a{
+	font-size: 16px;	
+	border-radius: 30px; 
+	height: 40px;
+	width: 210px;
+}
+
+
+.section6 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.S6Art1 {
+    padding-bottom: 50px;
+}
+.S6Art1About{
+	grid-column-gap: 5px;
+}
+.S6Art2Name{
+	padding-bottom: 40px;
+}
+.S6Art2Name>p{
+	font-size: 24px;
+}
+.S6Art2Name>a{
+	font-size: 11px;
+}
+
+.Price{
+	grid-column-gap: 10px;
+}
+.Start, .Pro, .ProPlus{
+	grid-row-gap: 10px;
+}
+.Start>p, .Pro>p, .ProPlus>p{
+	font-size: 14px;
+	
+}
+.Start>div, .Pro>div, .ProPlus>div{
+	height: 120px;
+}
+.Start>div>p, .Pro>div>p, .ProPlus>div>p{
+	font-size: 11px;
+}
+.S6Art2Buttons>a{
+	font-size: 12px;	
+}
+
+.section7{
+	margin-bottom: 20px;	
+}
+.S7T1>p:nth-child(1){
+	font-size: 22px;
+	padding: 15px 0; 
+}
+.S7T1>p:nth-child(2){
+	font-size: 12px;
+	padding-bottom: 10px;
+}
+.section7>div>a{
+	height: 30px;
+	width: 200px;
+	margin-bottom: 20px;
+}
+
+.footerSection1{;
+	grid-column-gap: 10px;
+	padding-bottom: 10px;
+}
+.footerSection1>div>p{
+	font-size: 12px;
+}
+.footerSection1>div>ul>li{
+	padding-bottom: 5px;
+}
+.contacts>div>a>img{
+	width: 25px;
+	height: 25px;
+}
+.payCards>a>img{
+	width: 45px;
+	height: 26px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 500px){
+	nav{
+	width: 98%;
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    grid-template-rows: repeat(2, auto);
+}
+header{	
+	height: 770px;
+}
+.nav{
+	grid-column: 1/4;
+}
+.nav>li>a{
+	font-size: 12px;
+}
+	#LogIn{
+		justify-self: center; 
+		grid-column: 2/3;
+		margin: 0;
+}
+#CreateNav{
+		justify-self: center; 
+		grid-column: 3/4;
+}
+.headerMain{
+	width: 98%;
+}
+.nameHead{
+	grid-column: 1/4;
+	grid-row-start: 1;
+	grid-row-end: 2;
+	text-align: center;
+	padding: 15px 0;
+}
+.textHead{
+	grid-column: 1/4;
+	grid-row-start: 2;
+	grid-row-end: 3;
+	text-align: center;
+	padding-bottom: 30px;
+}
+.aboutHead{
+	grid-column: 3/4;
+	grid-row-start: 3;
+	grid-row-end: 4;
+}
+.pointer{
+	grid-column: 3/4;
+	grid-row-start: 4;
+	grid-row-end: 5;
+	justify-self: start; 
+}
+.pointer{
+	height: 60px;
+	width: 55px;
+
+}
+.pointer>img{
+	transform: scale(-1, -1);
+}
+.IphoneHead{	
+	grid-column: 1/4;
+	grid-row-start: 5;
+	grid-row-end: 7;
+	
+}
+.IphoneHead>img{
+	height: 55%;
+	width: 55%;
+	margin: 0 auto;
+
+}
+
+
+.section1{
+	padding-top: 40px; 
+}
+.stroke1{
+	width: 98%;
+}
+.s1I1, .s1I2, .s1I3, .s1I4{
+	height: 12vw;
+	width: 12vw;
+}
+.s1T1>p, .s1T2>p, .s1T3>p, .s1T4>p{
+	font-size: 10px;
+}
+
+
+.section2{
+	width: 98%;
+	display: grid;
+	grid-template-columns: repeat(1, 1fr);
+	grid-template-rows: repeat(2, auto);
+	padding-top: 30px; 
+	padding-bottom: 30px; 
+	justify-items: center; 
+}
+.S2ImgButton{	
+	width: auto;
+	height: auto;
+	display: grid;
+}
+.HelpS2{
+ 	padding: 10px ;
+ 	text-align: center;
+}
+.ConsS2{
+	text-align: center;
+}
+.S2TextBlock>ul>li{
+	padding: 10px 0 10px 40px;
+	font-size: 14px;
+	text-align: justify;
+}
+
+
+.section3{ 
+	padding: 50px 0 30px; 	 
+	background-color: #f2f2f2;
+}
+.article1>p{
+	font-size: 24px; 
+}
+
+.article2, .article3, .article4{
+	width: 98%;
+	display: grid;
+	grid-template-columns: repeat(1, 1fr);
+	grid-template-rows: repeat(2, auto);
+	justify-items: center; 
+}
+.vidjet1, .vidjet2, .vidjet3{
+	margin-top: 0;
+	width: auto;
+	height: auto;
+	padding: 30px 10px;
+}
+.vidjet2{
+	grid-row-start: 1;
+	grid-row-end: 2;
+}
+.ImgArt3{
+	grid-row-start: 2;
+	grid-row-end: 3;
+	justify-self: center;
+	width: auto;
+	height: auto;
+}
+.v1T1, .v2T1, .v3T1{
+	font-size: 10px;	
+}
+.v1T2, .v2T2, .v3T2{
+	margin-top: 10px;
+	font-size: 20px;
+	padding-bottom: 10px;
+}
+.v1T3, .v2T3, .v3T3{
+	font-size: 14px;
+}
+.vidjet1>a, .vidjet2>a, .vidjet3>a{
+	font-size: 13px;
+}
+
+.ImgArt2, .ImgArt4{
+	width: auto;
+	height: auto;
+}
+
+.S2I1{
+	width: auto;
+	height: auto;
+}
+
+.S5container{
+	width: 98%;
+}
+.S4Row2{
+	width: 60%;
+	display: grid;
+	grid-template-columns: repeat(1, 1fr);
+	grid-template-rows: repeat(3, auto);
+	margin: 0 auto;
+}
+.S4Row2Col1>p:nth-child(2), 
+.S4Row2Col2>p:nth-child(2), 
+.S4Row2Col3>p:nth-child(2){
+	font-size: 16px;
+	text-align: center;
+}
+.S4Row2Col1>p:nth-child(1), 
+.S4Row2Col2>p:nth-child(1), 
+.S4Row2Col3>p:nth-child(1){
+	font-size: 16px;
+	text-align: center;
+}
+.S4Row2Col1>p:nth-child(1)>span, 
+.S4Row2Col2>p:nth-child(1)>span, 
+.S4Row2Col3>p:nth-child(1)>span{
+	font-size: 30px;
+	text-align: center;
+}
+
+.section6{
+	width: 98%;
+}
+.S6Art1About{
+	display: grid;
+	grid-template-columns: repeat(1, 1fr);
+	grid-template-rows: repeat(3, auto);
+	grid-row-gap: 10px;
+}
+.nameReview1, .nameReview2, .nameReview3{
+	grid-row-gap: 10px;
+	grid-column-gap: 10px;
+}
+.photo1, .photo2, .photo3{
+	width: 70px;
+	height: 70px; 
+}
+.NAME{
+	font-size: 20px;
+}
+
+.position{
+	font-size: 16px;
+}
+
+.TextReview1>p, .TextReview2>p, .TextReview3>p{
+	font-size: 16px;
+}
+
+.Price{
+	display: grid;
+	grid-template-columns: repeat(1, 1fr);
+	grid-template-rows: repeat(3, auto);
+	grid-row-gap: 20px;
+}
+.Start>p, .Pro>p, .ProPlus>p{
+	width: 70%;
+ 	margin: 0 auto;
+	font-size: 28px;
+	padding: 20px 0;
+	
+}
+.Start>div, .Pro>div, .ProPlus>div{
+	width: 70%;
+ 	margin: 0 auto;
+	height: 230px;
+}
+.Start>div>p, .Pro>div>p, .ProPlus>div>p{
+	font-size: 18px;
+}
+
+.S6Art2Buttons{
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	justify-items: center; 
+	margin-top: 20px;
+}
+.S6Art2Buttons>a{
+	display: none;
+	font-size: 12px; 
+	height: 30px;
+	width: 100px;
+}
+
+
+.section7>div{
+	display: grid;
+	grid-template-columns: repeat(1, 1fr);
+	grid-template-rows: repeat(4, auto);
+	width: 98%;
+	margin: 0 auto;
+	padding: 30px 0;
+}
+.S7T1{
+	grid-column: 1/2; 
+	grid-row-start: 1;
+	grid-row-end: 2;
+	align-self: center; 
+	text-align: center;
+}
+.section7>div>a{
+	grid-column: 1/2; 
+	grid-row-start: 2;
+	grid-row-end: 3;
+	justify-self: center; 
+
+	font-size: 14px;
+	height: 45px;
+	width: 220px;
+}
+.S7Img{
+	display: none;
+}
+
+
+.footerSection1{
+	width: 98%;
+	display: grid;
+	grid-template-columns: repeat(1, 1fr);
+	grid-template-rows: repeat(4, auto);
+	justify-items: center
+}
+.footerSection1>div>p{
+	font-size: 18px;
+	text-align: center;
+}
+.footerSection1>div>ul>li>a{
+	font-size: 16px;
+	text-align: center;
+}
+.footerSection1>div>ul>li{
+	text-align: center;
+	padding-bottom: 25px;
+	font-size: 16px;
+}
+.opportunities{
+	display: none;
+}
+.contacts>div{
+	display: grid;
+	grid-template-rows: repeat(1, auto);
+	grid-template-columns: repeat(3, auto);
+	justify-items: center; 
+}
+.contacts>div>a>img{
+	width: 40px;
+	height: 40px;
+}
+
+.footerSection2{
+	height: auto;
+}
+.footerSection2>div{
+	height: 100%;
+	width: 98%;
+	display: grid;
+	grid-template-columns: repeat(1, 1fr);
+	grid-template-rows: repeat(2, auto);
+	justify-items: center;
+}
+.payCards{
+	justify-self: center;
+
+}
+.footerSection2>div>div>p{
+	font-size: 15px;
+	color: #7A7E83;
+}
+.payCards>a>img{
+	width: 10vh;
+	height: 10vw;
+}
+}
+
+
+
+@media (max-width: 400px){
+	nav{
+	grid-template-columns: repeat(2, 1fr);
+	grid-template-rows: repeat(3, auto);
+	grid-row-gap: 15px;
+}
+.imgNav{
+	grid-column: 1/2;
+	grid-row-start: 1;
+	grid-row-end: 3;
+}
+.nav{
+	grid-column: 1/3;
+	grid-row-start: 3;
+	grid-row-end: 4;
+	display: grid;
+	grid-template-rows: repeat(4, auto);
+	grid-template-columns: repeat(1, 1fr);
+}
+.nav>li{
+	padding-bottom: 2vh;
+}
+#LogIn{
+	grid-column: 2/3;
+	grid-row-start: 1;
+	grid-row-end: 2;
+} 
+#CreateNav{
+	grid-column: 2/3;
+	grid-row-start: 2;
+	grid-row-end: 3;
+}
+#LogIn, #CreateNav{
+	font-size: 10px;
+	height: 100%;
+	width: 100%;
+
+}
+
+.nameHead{
+	font-size: 38px;
+}
+.textHead{
+	font-size: 15px;
+	padding-bottom: 15px;
+}
+.aboutHead{
+	font-size: 11px;
+}
+.IphoneHead>img{
+	height: 60%;
+	width: 60%;
+}
+
+.section1{
+	padding-bottom: 20px;
+}
+.stroke1{
+	grid-template-columns: repeat(3, 1fr);
+	grid-template-rows: repeat(11, auto);
+	align-items: center;
+	justify-items: center;
+	padding-bottom: 20px;
+}
+.s1T1>p, .s1T2>p, .s1T3>p, .s1T4>p{
+	font-size: 14px;
+	margin-bottom: 0;
+}
+.s1I1, .s1I2, .s1I3, .s1I4{
+	height: 70px;
+	width: 70px;
+	justify-self: center;
+	grid-column: 2/3;
+}
+.s1S1, .s1S2, .s1S3{
+ 	grid-column: 2/3;
+ 	width: 0;
+ 	height: 35px;
+}
+.s1T1, .s1T2, .s1T3, .s1T4{
+	grid-column: 2/3;
+}
+
+.s1I1{
+	justify-self: center;
+	grid-row-start: 1;
+	grid-row-end: 2;
+}
+.s1T1{
+	grid-row-start: 2;
+	grid-row-end: 3;
+}
+.s1S1{
+	grid-row-start: 3;
+	grid-row-end: 4;
+}
+
+.s1I2{
+	grid-row-start: 4;
+	grid-row-end: 5;
+}
+.s1T2{
+	grid-row-start: 5;
+	grid-row-end: 6;
+}
+.s1S2{
+	grid-row-start: 6;
+	grid-row-end: 7;
+}
+
+.s1I3{
+	grid-row-start: 7;
+	grid-row-end: 8;
+}
+.s1T3{
+	grid-row-start: 8;
+	grid-row-end: 9;
+}
+.s1S3{
+	grid-row-start: 9;
+	grid-row-end: 10;
+}
+
+.s1I4{
+	grid-row-start: 10;
+	grid-row-end: 11;
+}
+.s1T4{
+	grid-row-start: 11;
+	grid-row-end: 12;
+}
+
+
+
+
+.s1I1>img, .s1I2>img, .s1I3>img, .s1I4>img{
+	height: 100%;
+	width: 100%;
+}
+
+
+.article1>p{
+	font-size: 20px; 
+}
+
+.S4Row2{
+	width: 90%;
+}
+.S4Row2Col1>p:nth-child(2), 
+.S4Row2Col2>p:nth-child(2), 
+.S4Row2Col3>p:nth-child(2){
+	font-size: 15px;
+	text-align: center;
+}
+.S4Row2Col1>p:nth-child(1), 
+.S4Row2Col2>p:nth-child(1), 
+.S4Row2Col3>p:nth-child(1){
+	font-size: 14px;
+	text-align: center;
+}
+.S4Row2Col1>p:nth-child(1)>span, 
+.S4Row2Col2>p:nth-child(1)>span, 
+.S4Row2Col3>p:nth-child(1)>span{
+	font-size: 26px;
+	text-align: center;
+}
+.S4Row4>a{	
+	font-size: 14px; 
+	height: 90%;
+	width: 90%;
+}
+
+.S6Art1Name>p{
+	font-size: 20px;
+}
+.photo1, .photo2, .photo3{
+	width: 50px;
+	height: 50px; 
+}
+
+
+.S6Art2Name{
+	display: grid;
+	grid-template-columns: repeat(1, 1fr);
+	grid-template-rows: repeat(2, auto);
+	justify-items: center;
+}
+.S6Art2Name>p{
+	grid-column: 1/2;
+	font-size: 20px;
+}
+.S6Art2Name>a{
+	grid-column: 1/2;
+	justify-self: center;
+	text-decoration: none;
+	font-size: 13px;
+}
+.Start>p, .Pro>p, .ProPlus>p{
+	width: 95%;
+ 	margin: 0 auto;
+	font-size: 18px;
+	padding: 10px 0;
+	
+}
+.Start>div, .Pro>div, .ProPlus>div{
+	width: 95%;
+ 	margin: 0 auto;
+	height: auto;
+}
+.Start>div>p, .Pro>div>p, .ProPlus>div>p{
+	font-size: 14px;
+}
+
+.section7>div>a{
+	font-size: 14px; 
+	height: 40px;
+	width: 90%;	
+}
+.footerSection2>div>div>p{
+	font-size: 9px;
+	text-align: justify;
+}
+.payCards>a>img{
+	width: 15vw;
+	height: 4vh;
+}
+}
